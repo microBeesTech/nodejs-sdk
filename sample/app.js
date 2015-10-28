@@ -1,4 +1,4 @@
-var microBeesSDK = require('../microBeesSDK.js');
+var microBeesSDK = require('microbeessdk');
 var debug=true;
 var microBees = new microBeesSDK(debug);
 microBees.getAccessToken("myUsername","myPassword","myClientID","myClientSecret","clientRedirectURI");

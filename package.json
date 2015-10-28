@@ -2,7 +2,7 @@
   "author": "MicroBees Technology LTD",
   "name": "microbeessdk",
   "description": "microBees NodeJS SDK",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/microBeesTech/nodejs-sdk.git"

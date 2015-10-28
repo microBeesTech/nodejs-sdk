@@ -1,0 +1,17 @@
+{
+  "author": "MicroBees Technology LTD",
+  "name": "microbeessdk",
+  "description": "microBees NodeJS SDK",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/microBeesTech/nodejs-sdk.git"
+  },
+  "dependencies": {
+    "https": "0.0.x"
+  },
+  "devDependencies": {},
+  "keywords":["iot","internet of things","sdk","microbees"],
+  "main": "microBeesSDK.js",
+  "license": "MIT License"
+}
